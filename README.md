@@ -8,7 +8,7 @@ A passion for crafting engaging and user-friendly digital experiences.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anantesh234@gmail.com](mailto:anantesh234@gmail.com)
-* 🧠  I'm learning Node.js, PostgreSQL, MongoDB
+* 🧠  I'm learning React, NextJS, MongoDB
 * 🤝  I'm open to collaborating on Full-Stack Projects
 * ⚡  Committing code and pushing boundaries since 2004
 
