@@ -23,7 +23,7 @@ A curated list of my projects showcasing a variety of skills in web development,
 
 | **Project Name**        | **Description**                                                                                     | **Tech Stack**           | **Live Link**                                  |
 |--------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------|
-| **Gogetgit**           | CLI tool to scrape any GitHub repo and ask questions to it.                                               | LLAMA, Go-lang, Python   |  |
+| **Gogetgit**           | CLI tool to scrape any GitHub repo and ask questions to it.                                               | LLAMA, Go-lang, Python   | [GitHub](https://github.com/AnanteshG/Gogetgit)  |
 | **ContestHub**           | A hub to stay updated with upcoming coding contests.                                               | React, API Integration   | [Live Demo](https://contest-hub-live.vercel.app/) |
 | **Flex-Folio**           | A customizable portfolio template for developers.                                                  | React, Vercel            | [Live Demo](https://flex-folio.vercel.app/)       |
 | **Article Summarizer**   | AI-powered tool to summarize articles effectively.                                                 | React, AI Integration    | [Live Demo](https://article-summarizer-tau.vercel.app/) |
@@ -31,11 +31,11 @@ A curated list of my projects showcasing a variety of skills in web development,
 | **Sudoku Solver**        | A web app to solve Sudoku puzzles.                                                                 | JavaScript, HTML, CSS    | [Live Demo](https://sudosolverr.vercel.app/)      |
 | **Quasar**               | A prompt-based project to enhance creativity.                                                      | React, Node.js           | [Live Demo](https://quasar-prompt.vercel.app/)    |
 | **Nike Landing Page**    | A visually appealing Nike-themed landing page.                                                     | HTML, CSS, JavaScript    | [Live Demo](https://nike-landing-page-hades.vercel.app/) |
-| **Pure Backend**         | Backend-only project for a course-selling platform.                                                | Node.js, Express, MongoDB|                              |
+| **Pure Backend**         | Backend-only project for a course-selling platform.                                                | Node.js, Express, MongoDB|  [GitHub](https://github.com/AnanteshG/course-selling-backend)                            |
 | **Open Source Demo**     | A demo to showcase open-source contributions.                                                      | React, Open Source       | [Live Demo](https://open-source-gdsc.vercel.app/) |
 | **Thrilling Game**       | A fun, interactive past-or-future game.                                                            | JavaScript, Netlify      | [Live Demo](https://past-or-future.netlify.app/)  |
 | **To-Do App**            | A feature-rich to-do application to boost productivity.                                            | React                    | [Live Demo](https://to-do-app-hades.vercel.app/)  |
-| **Bulk Mail Sender**     | A tool to send bulk emails efficiently.                                                            | Node.js, Nodemailer      |                               |
+| **Bulk Mail Sender**     | A tool to send bulk emails efficiently.                                                            | Node.js, Nodemailer      |  [GitHub](https://github.com/AnanteshG/Bulk-mail-sender)                             |
 | **One Piece Bounties**   | Displays bounties of One Piece characters in a fun UI.                                             | HTML, CSS, JavaScript    | [Live Demo](https://tinyurl.com/2m8nfvez)        |
 | **Web Code Editor**      | A lightweight online code editor for quick snippets.                                               | React, Netlify           | [Live Demo](https://code-editor-hades.netlify.app/) |
 | **Quote Generator**      | Generates motivational quotes at the click of a button.                                            | React, Vercel            | [Live Demo](https://motivquotes.vercel.app/)     |
