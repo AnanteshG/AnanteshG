@@ -23,6 +23,7 @@ A curated list of my projects showcasing a variety of skills in web development,
 
 | **Project Name**        | **Description**                                                                                     | **Tech Stack**           | **Live Link**                                  |
 |--------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------|
+| **Gogetgit**           | CLI tool to scrape any GitHub repo and ask questions to it.                                               | LLAMA, Go-lang, Python   |  |
 | **ContestHub**           | A hub to stay updated with upcoming coding contests.                                               | React, API Integration   | [Live Demo](https://contest-hub-live.vercel.app/) |
 | **Flex-Folio**           | A customizable portfolio template for developers.                                                  | React, Vercel            | [Live Demo](https://flex-folio.vercel.app/)       |
 | **Article Summarizer**   | AI-powered tool to summarize articles effectively.                                                 | React, AI Integration    | [Live Demo](https://article-summarizer-tau.vercel.app/) |
