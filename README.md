@@ -23,6 +23,7 @@ A curated list of my projects showcasing a variety of skills in web development,
 
 | **Project Name**        | **Description**                                                                                     | **Tech Stack**           | **Live Link**                                  |
 |--------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------|
+| **Mentron**           | Real-time AI Mock Interviewer Assistant with AI Avatars.                                               | Next.js, Typescript, Gemini API   | [GitHub](https://mentron.vercel.app)  |
 | **Gogetgit**           | CLI tool to scrape any GitHub repo and ask questions to it.                                               | LLAMA, Go-lang, Python   | [GitHub](https://github.com/AnanteshG/Gogetgit)  |
 | **TalentMatch-AI**      | AI-powered agent to match student resumes with job opportunities                                    | Next.js, Firebase, Flask | [GitHub](https://github.com/AnanteshG/TalentMatch-AI) |
 | **ContestHub**           | A hub to stay updated with upcoming coding contests.                                               | Next.js, API Integration   | [Live Demo](https://contest-hub-live.vercel.app/) |
